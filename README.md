@@ -1,6 +1,9 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/gmnchamikara/readme/blob/main/wave.gif">, I'm Hiruni Adikari</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Serif&pause=1000&background=9E23FF00&center=true&vCenter=true&random=false&width=435&lines=Hi+%2C+I'm+Hiruni+Adikari;Undergraduate+%40+SLIIT;Passionate+Software+Engineer)](https://git.io/typing-svg)
+
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
 <!--
 **hiruniadikari/hiruniadikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
