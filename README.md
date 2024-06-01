@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/gmnchamikara/readme/blob/main/wave.gif">, I'm Nuwan Chamikara</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/gmnchamikara/readme/blob/main/wave.gif">, I'm Hiruni Adikari</h1>
 
 <!--
 **hiruniadikari/hiruniadikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
